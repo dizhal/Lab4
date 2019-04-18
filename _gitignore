@@ -1,0 +1,8 @@
+.settings/
+bin/
+.classpath
+.project
+build.fxbuild
+hs_err_pid356.log
+replay_pid356.log
+
